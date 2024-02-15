@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import { Component } from "react";
 import { mapDispatchToProps, mapStateToProps } from "../actions/Counter";
 import { connect } from "react-redux";
